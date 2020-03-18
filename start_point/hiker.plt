@@ -1,5 +1,5 @@
+:- consult(hiker).
 :- begin_tests(hiker).
-:- include(hiker).
 
 test(answer) :- answer(42).
 
