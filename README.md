@@ -1,6 +1,6 @@
-[![CircleCI](https://circleci.com/gh/cyber-dojo-languages/perl-testsimple.svg?style=svg)](https://circleci.com/gh/cyber-dojo-languages/perl-testsimple)
+[![CircleCI](https://circleci.com/gh/cyber-dojo-languages/prolog-plunit.svg?style=svg)](https://circleci.com/gh/cyber-dojo-languages/prolog-plunit)
 
-## display_name="Perl, Test::Simple"
-## image_name="cyberdojofoundation/perl_test_simple"
+## display_name="Prolog, plunit"
+## image_name="cyberdojofoundation/prolog_plunit"
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)
