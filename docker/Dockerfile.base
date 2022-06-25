@@ -1,4 +1,4 @@
-FROM cyberdojofoundation/prolog:c2faff1
+FROM cyberdojofoundation/prolog:0a830c6
 LABEL maintainer=jon@jaggersoft.com
 
 COPY red_amber_green.rb /usr/local/bin
