@@ -1,2 +1,2 @@
-FROM ghcr.io/cyber-dojo-languages/prolog:02f94fe
+FROM ghcr.io/cyber-dojo-languages/prolog:6c03160
 LABEL maintainer=jon@jaggersoft.com
