@@ -1,4 +1,4 @@
-FROM ghcr.io/cyber-dojo-languages/prolog:81fe97b@sha256:8148a6ee7e382c72213189e2d3dafb8353d23b87e433fff3d78f648fb6ea3219
+FROM ghcr.io/cyber-dojo-languages/prolog:ee8aef4@sha256:67a2394563ef5142becb2acec4028587295aab5ab1060bafe5bf8033cad045bc
 LABEL maintainer=jon@jaggersoft.com
 
 COPY install.sh .
